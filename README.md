@@ -2,7 +2,7 @@
 
 <img align="left" alt="Noman Ahmed's Stats" src="https://github-readme-stats-swart-nine.vercel.app/api?username=nahmed44&show_icons=true&count_private=trueshow_icons=true&hide_border=true&hide=issues,contribs&theme=tokyonight"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahmed44&layout=compact&hide_border=true&hide=dart,ruby,swift,objective-c&theme=tokyonight)](https://github.com/nahmed44/nahmed44/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahmed44&layout=compact&hide_border=true&hide=dart,ruby,swift,objective-c&theme=tokyonight)](https://github.com/nahmed44/)
 
 
 
